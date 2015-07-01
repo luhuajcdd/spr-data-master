@@ -9,7 +9,7 @@
 	<name>spr-data</name>
 
 	<build>
-		<finalName>dpr-data</finalName>
+		<finalName>spr-data</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
